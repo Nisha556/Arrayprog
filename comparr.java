@@ -1,4 +1,6 @@
-package Sorting_searching;
+package Advprog;
+
+
 
 public class comparr {
 public static void comp(int [] arr1,int[] arr2 )
@@ -38,3 +40,4 @@ public static void comp(int [] arr1,int[] arr2 )
 	 comparr.comp(arr1,arr2);
  }
 }
+
